@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wG/txV/lWd2hkDG5zGfpuEAF3NeH4+Q5lYA4gR+Ht2E=",
+  "Source": "PuffinRecon.API",
+  "BasePath": "_content/PuffinRecon.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
